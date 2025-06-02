@@ -1,0 +1,15 @@
+galmir-gestionale/
+├── public/
+│   └── _redirects
+├── src/
+│   ├── components/
+│   │   └── EsempioComponente.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   └── Clienti.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md

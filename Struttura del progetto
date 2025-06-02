@@ -12,4 +12,5 @@ galmir-gestionale/
 ├── index.html
 ├── package.json
 ├── vite.config.js
+├── vercel.json 
 └── README.md
